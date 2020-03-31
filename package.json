@@ -19,7 +19,7 @@
     "es6-promise": "^4.2.8",
     "isomorphic-unfetch": "^3.0.0",
     "lodash": "^4.17.15",
-    "next": "^9.1.4",
+    "next": "^9.3.2",
     "next-compose-plugins": "^2.2.0",
     "next-redux-saga": "^4.1.2",
     "next-redux-wrapper": "^4.0.1",
